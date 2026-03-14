@@ -1,6 +1,6 @@
 # Deterministic Structured Credit for DeFi
 
-**Akshay Vijayendiran** · Columbia University · [av2777@columbia.edu](mailto:av2777@columbia.edu)
+**Akshay Vijayendiran** · [av2777@columbia.edu](mailto:av2777@columbia.edu)
 
 > *Companion code and simulation repository for the working paper:*
 > **"Deterministic Structured Credit for DeFi: Designing On-Chain Waterfalls, State Machines, and Duration-Aware Risk"**
